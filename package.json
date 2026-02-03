@@ -1,0 +1,13 @@
+{
+  "name": "node-ci-pipeline",
+  "version": "1.0.0",
+  "description": "Minimal Node.js project for GitHub Actions CI",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "node test.js"
+  },
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {}
+}

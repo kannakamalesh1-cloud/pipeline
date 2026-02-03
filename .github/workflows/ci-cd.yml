@@ -21,7 +21,7 @@ jobs:
 
       - name: Install Dependencies
         run: npm install
-        working-directory: /home/kamalesh/package.json
+        working-directory: ./frontend
 
       - name: Run Tests
         run: npm test
